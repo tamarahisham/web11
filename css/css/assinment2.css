@@ -1,0 +1,46 @@
+body {
+height: 1000px;
+
+}
+
+div p {
+
+    font-style: italic;
+}
+
+ h1 {
+font-weight: bold;
+color: black;
+}
+.img1 {
+height: 200px;
+width: 200px;
+padding-right:300px ;
+
+}
+.img2 {
+    height: 200px;
+    width: 200px;
+    padding-right:300px;
+    }
+    .img3 {
+        height: 200px;
+        width: 200px;
+        padding-right:300px;
+        }
+        form p {
+font-size: 30px;
+font-weight: bold;
+
+        }
+header {
+
+    background-color: bisque;
+    border: 2px brown solid;
+    
+}
+nav {
+background-color: #eee;
+padding: 10px;
+
+}
