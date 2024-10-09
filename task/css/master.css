@@ -1,0 +1,18 @@
+body {
+
+    background-color: dimgray;
+    border: 3px burlywood solid;
+    border-radius: 15px;
+}
+.parent {
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+align-items: center;
+justify-content: space-between;
+}
+.head h2 {
+font-size: 35px;
+font-weight: bold;
+    text-align: center;
+}
